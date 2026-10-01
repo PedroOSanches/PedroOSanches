@@ -21,10 +21,8 @@ Sou estudante de tecnologia com foco em desenvolvimento de software, automação
 ## 📌 Projetos principais
 
 - [converter_xlsx_txt_SPED](https://github.com/PedroOSanches/converter_xlsx_txt_SPED) — conversor de arquivos XLSX para TXT SPED em Python
-- [maua](https://github.com/PedroOSanches/maua) — repositório com projetos e atividades acadêmicas
 - [pi_1_semestre](https://github.com/PedroOSanches/pi_1_semestre) — projeto de jogo de tabuleiro em Java
 - [atividade_banco](https://github.com/PedroOSanches/atividade_banco) — atividades relacionadas a banco de dados e SQL
-- [aula_dev_git](https://github.com/PedroOSanches/aula_dev_git) — exercícios e materiais de Git
 - [hub_elo3d](https://github.com/PedroOSanches/hub_elo3d) — projeto em desenvolvimento
 
 ## 📊 Estatísticas do GitHub
@@ -39,12 +37,6 @@ Sou estudante de tecnologia com foco em desenvolvimento de software, automação
 
 - GitHub: [@PedroOSanches](https://github.com/PedroOSanches)
 - Sempre aberto a oportunidades, networking e colaborações.
-
-## ✨ Frase
-
-"Código é solução, disciplina é constância e aprendizado é a melhor ferramenta." 
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PedroOSanches&color=blueviolet" alt="Profile views" />
